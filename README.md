@@ -1,1 +1,2 @@
-# c-40-v3-fuel-and-powercoin-
+# C40RV_SpeedRacer_ReferenceCode
+Teacher Reference Code
